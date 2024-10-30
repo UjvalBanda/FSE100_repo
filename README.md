@@ -5,5 +5,5 @@ Raw files -
 
 Files for edits -
 
-1) Brick controls ( Robot)
+1) Brick controls ( Robot) --> Keyboard.m copy
 2) Initiation (EV3 and Robosim) --> init.m copy
