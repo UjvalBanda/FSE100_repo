@@ -1,4 +1,4 @@
-There are going to be both Raw files and a seperate copy of the file where edits can be made. 
+There are going to be both Raw files and a seperate copy of the file where edits should be made. 
 
 Raw files -
 1)init.m
